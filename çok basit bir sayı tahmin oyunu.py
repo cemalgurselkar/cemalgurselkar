@@ -9,10 +9,12 @@ while True:
         break
     elif sayi > rand:
         print("Daha düşük bir sayı giriniz")
+        continue
     elif sayi < rand:
         print("Daha büyük bir sayı giriniz")
+        continue
     elif sayi == rand:
-        print("Tebrikler!!! Bildiniz.")
+        print("Tebrikler!!! {} sayısını bildiniz.".format(rand))
         print("{} tane tahmin hakkı kullandınız.".format(sayac))
         break
     
