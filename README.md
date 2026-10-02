@@ -1,19 +1,69 @@
-# Hi, I'm Cemal Gürsel 👋
+# Cemal Gürsel Kar
 
-AI/ML & Data Engineer
+### Computer Engineering Graduate · AI/ML · LLM Systems · Data Engineering 
 
-My main focus is **Computer Vision**, with a broader interest in
-**Generative Models**, and **Data Engineering**.
+I build projects that connect machine learning models with practical applications, from LLM-driven robot control and financial analysis agents to computer vision and streaming data pipelines.
 
-### Interests
-- Computer Vision
-- Generative Models
-- Data Engineering
-- MLOps
+My experience includes industrial fish detection and counting, local LLM inference, parameter-efficient model fine-tuning, and market data processing.
 
-### Tools
-Python · PyTorch · OpenCV · SQL · Docker · Git · Linux
+[GitHub](https://github.com/cemalgurselkar) · [Email](mailto:cemalgurselkar@gmail.com)
 
-<p align="center">
-  <img src="./assets/whatever.gif" width="600">
-</p>
+---
+
+## Selected work
+
+### MarketStream
+**Streaming market data pipeline**
+
+Built an end-to-end pipeline for processing market data with Kafka and PySpark. Used Parquet, DuckDB and PostgreSQL for storage and querying, alongside Airflow and FastAPI, and applied profiling to guide performance optimizations.
+
+`Kafka` `PySpark` `Parquet` `DuckDB` `PostgreSQL` `Airflow` `FastAPI`
+
+### LLM-Based Autonomous Robot Control
+**Computer Engineering graduation thesis**
+
+Integrated large language models with robotic middleware to connect natural-language instructions with robot task execution and motion planning. The project explores how language models can bridge high-level commands and robot actions.
+
+`LLMs` `Robotics` `Natural Language Interfaces`
+
+### Financial AI Agent
+**Financial analysis with ReAct and RAG**
+
+Built an agent that combines ReAct reasoning with retrieval-augmented generation to incorporate financial context and real-time data into analysis. Configured local model execution through Ollama.
+
+`ReAct` `RAG` `Ollama`
+
+### Fish Detection and Counting
+**Computer vision project developed during an industrial internship**
+
+Developed a YOLOv11-based pipeline to detect and count fish in industrial containers. Implemented a custom tracking algorithm to support automated counting.
+
+`YOLOv11` `Object Detection` `Tracking` `Computer Vision`
+
+### Qwen2.5-Coder Fine-Tuning
+**Parameter-efficient adaptation for specialized coding tasks**
+
+Applied LoRA-based parameter-efficient fine-tuning to Qwen2.5-Coder using domain-specific technical datasets.
+
+`Qwen2.5-Coder` `PEFT` `LoRA`
+
+---
+
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| Programming and data | Python, SQL, Pandas |
+| Machine learning | PyTorch, TensorFlow, Scikit-learn, XGBoost |
+| LLM systems | ReAct, RAG, Ollama, PEFT, LoRA |
+| Data engineering | Kafka, PySpark, Airflow, PostgreSQL, DuckDB, Parquet |
+| APIs and tooling | FastAPI, Docker |
+| Visualization | Matplotlib, Seaborn |
+
+## Background and interests
+
+- Computer Engineering, Çukurova University · 2021–2026
+- Interested in LLM applications, computer vision and data infrastructure.
+- Open to entry-level AI/ML and data engineering opportunities.
+
+Feel free to reach out at **[cemalgurselkar@gmail.com](mailto:cemalgurselkar@gmail.com)**.
