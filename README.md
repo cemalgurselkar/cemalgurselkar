@@ -6,7 +6,7 @@ I build projects that connect machine learning models with practical application
 
 My experience includes industrial fish detection and counting, local LLM inference, parameter-efficient model fine-tuning, and market data processing.
 
-[GitHub](https://github.com/cemalgurselkar) · [Email](mailto:cemalgurselkar@gmail.com)
+[GitHub](https://github.com/cemalgurselkar) · [Email](mailto:cemalgurselkar@gmail.com) · [Linkedin](https://www.linkedin.com/in/cemal-g%C3%BCrsel-85498425a/?isSelfProfile=true) · [Medium](https://medium.com/@cemalgurselkar)
 
 ---
 
