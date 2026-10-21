@@ -33,7 +33,7 @@ Integrated large language models with robotic middleware to connect natural-lang
 
 `LLMs` `Robotics` `Natural Language Interfaces`
 
-### [Financial Research Agent](https://github.com/cemalgurselkar/Financial_AI_Agent_with_ReAct_Architecture)
+### [Financial Research Agent](https://github.com/cemalgurselkar/Financial_Research_Agent)
 **Financial Research Agent using LangGraph**
 
 Designed and developed a LangGraph-based financial research agent with deterministic orchestration, specialized local-LLM workers, Gemini-powered planning and supervision, tool-level access controls, structured data contracts, evidence validation, and source-backed report generation. Integrated financial market data and major news sources through an automated CLI workflow.
