@@ -1,5 +1,13 @@
 # Cemal Gürsel Kar
 
+<div align="center">
+  <img
+    src="./my_img.png"
+    alt="Cemal Gursel Kar - Developer Workspace"
+    width="100%"
+  />
+</div>
+
 ### Computer Engineering Graduate · AI/ML · LLM Systems · Data Engineering 
 
 I build projects that connect machine learning models with practical applications, from LLM-driven robot control and financial analysis agents to computer vision and streaming data pipelines.
