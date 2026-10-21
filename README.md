@@ -33,12 +33,11 @@ Integrated large language models with robotic middleware to connect natural-lang
 
 `LLMs` `Robotics` `Natural Language Interfaces`
 
-### [Financial AI Agent](https://github.com/cemalgurselkar/Financial_AI_Agent_with_ReAct_Architecture)
-**Financial analysis with ReAct and RAG**
+### [Financial Research Agent](https://github.com/cemalgurselkar/Financial_AI_Agent_with_ReAct_Architecture)
+""Financial Research Agent using LangGraph""
+Built a LangGraph-based financial research agent combining Gemini planning and supervision with local llama.cpp workers, deterministic workflows, validated tool usage, evidence aggregation, and source-backed reporting.
 
-Built an agent that combines ReAct reasoning with retrieval-augmented generation to incorporate financial context and real-time data into analysis. Configured local model execution through Ollama.
-
-`ReAct` `RAG` `Ollama`
+`LLMs` `LangGraph`
 
 ### [Fish Detection and Counting](https://github.com/cemalgurselkar/Academic_Project)
 **Computer vision project developed during an industrial internship**
