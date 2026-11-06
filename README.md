@@ -85,7 +85,7 @@ It provides a modular architecture for exploring vector indexing algorithms, mem
 
 ## Background and interests
 
-- Computer Engineering, Çukurova University · 2021–2026
+- Computer Engineering, Çukurova University
 - Interested in LLM applications, computer vision and data infrastructure.
 - Open to entry-level AI/ML and data engineering opportunities.
 
