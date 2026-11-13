@@ -1,18 +1,10 @@
 # Cemal Gürsel Kar
+### Junior AI/ML-Data Engineering 
 
-<div align="center">
-  <img
-    src="./my_img.png"
-    alt="Cemal Gursel Kar - Developer Workspace"
-    width="100%"
-  />
-</div>
-
-### Computer Engineering Graduate · AI/ML · LLM Systems · Data Engineering 
-
-I build projects that connect machine learning models with practical applications, from LLM-driven robot control and financial analysis agents to computer vision and streaming data pipelines.
-
-My experience includes industrial fish detection and counting, local LLM inference, parameter-efficient model fine-tuning, and market data processing.
+I work in the fields of artificial intelligence and data. I interesting in those roles:
+* Data Science
+* Data Engineer
+* Ai Engineer
 
 [GitHub](https://github.com/cemalgurselkar) · [Email](mailto:cemalgurselkar@gmail.com) · [Linkedin](https://www.linkedin.com/in/cemal-g%C3%BCrsel-85498425a/?isSelfProfile=true) · [Medium](https://medium.com/@cemalgurselkar)
 
@@ -54,13 +46,6 @@ Designed and developed a LangGraph-based financial research agent with determini
 Developed a YOLOv11-based pipeline to detect and count fish in industrial containers. Implemented a custom tracking algorithm to support automated counting.
 
 `YOLOv11` `Object Detection` `Tracking` `Computer Vision`
-
-### Qwen2.5-Coder Fine-Tuning
-**Parameter-efficient adaptation for specialized coding tasks**
-
-Applied LoRA-based parameter-efficient fine-tuning to Qwen2.5-Coder using domain-specific technical datasets.
-
-`Qwen2.5-Coder` `PEFT` `LoRA`
 
 ### [Vectorch](https://github.com/cemalgurselkar/VecTorch)
 
